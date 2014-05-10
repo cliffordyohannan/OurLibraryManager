@@ -1,0 +1,154 @@
+Sep 14, 2011 10:54:29 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in AddBook(Book book) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('34','മലയാളം','6789','ഉയ്ഗി','1900','56','1985-01-01','ഹ്വ്ഹ്80','ജ്ക്ബ്ക്ബ്ക്','','Story','Malayalam','1','S1')
+	Duplicate entry '34' for key 'PRIMARY'
+----------------------------------------------------------
+
+
+
+Sep 16, 2011 8:43:25 AM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in ImportAsset(Asset asset) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('3434','sdfsdf','sdfsd','sd','1900','q','1985-01-01','sdf','sdfsd','','Story','Malayalam','1','S1')
+	Data truncated for column 'price' at row 1
+----------------------------------------------------------
+
+
+
+Sep 17, 2011 3:52:38 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in AddMember(Member member) 
+	INSERT INTO membertable(memberid,memberfname,memberlname,gender,dob,housename,landmark,postoffice,pincode,panchayath,membertype,recomendedmember,admissionfee,phone1,phone2,ispaid,joindate,bloodgroup) VALUES('34','sfv','vsf','M','1960-01-01','vdsf','sv','sv','sv','Alappuzha','0','34','0','vsd','sdv','1','2011.09.17','B-')
+	Duplicate entry '34' for key 'PRIMARY'
+----------------------------------------------------------
+
+
+
+Sep 19, 2011 3:06:07 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in AddBook(Book book) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('7283','Pathmavyuhathiloru seetha','Kamala Govind','','1900','150','1985-01-01','','','','Story','Malayalam','1','S1')
+	Duplicate entry '7283' for key 'PRIMARY'
+----------------------------------------------------------
+
+
+
+Sep 19, 2011 3:06:07 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in AddBook(Book book) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('7283','Pathmavyuhathiloru seetha','Kamala Govind','','1900','150','1985-01-01','','','','Story','Malayalam','1','S1')
+	Duplicate entry '7283' for key 'PRIMARY'
+----------------------------------------------------------
+
+
+
+Sep 19, 2011 3:06:07 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in AddBook(Book book) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('7283','Pathmavyuhathiloru seetha','Kamala Govind','','1900','150','1985-01-01','','','','Story','Malayalam','1','S1')
+	Duplicate entry '7283' for key 'PRIMARY'
+----------------------------------------------------------
+
+
+
+Sep 19, 2011 3:10:30 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in AddBook(Book book) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('7340','Entae Amma','Lalaithambiaka Antherjanam','','1900','50','1985-01-01','','','','Story','Malayalam','1','S1')
+	Duplicate entry '7340' for key 'PRIMARY'
+----------------------------------------------------------
+
+
+
+Sep 19, 2011 4:55:03 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in AddBook(Book book) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('7392','Maranasannantae State','Jose Kumar','','1900','45','1985-01-01','','','','Story','Malayalam','1','S1')
+	Duplicate entry '7392' for key 'PRIMARY'
+----------------------------------------------------------
+
+
+
+Sep 19, 2011 5:15:50 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in ImportAsset(Asset asset) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('7393','Sukumara Hasyam','Jose Kumar','','1900','45','1985-01-01','','','','Story','Malayalam','1','S1')
+	Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+----------------------------------------------------------
+
+
+
+Sep 19, 2011 6:38:11 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in AddBook(Book book) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('7447','Athidhi Devo Bhava','Vinu Abraham','','1900','28','1985-01-01','','','','Story','Malayalam','1','S1')
+	Duplicate entry '7447' for key 'PRIMARY'
+----------------------------------------------------------
+
+
+
+Sep 19, 2011 6:43:12 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in AddBook(Book book) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('7450','Nalam Yamam','Ettumanoor Sivakumar','','1900','100','1985-01-01','','','','Story','Malayalam','1','S1')
+	Duplicate entry '7450' for key 'PRIMARY'
+----------------------------------------------------------
+
+
+
+Sep 19, 2011 7:03:26 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in AddBook(Book book) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('7469','Vishwa Brahma Puranam','K A Rajan','','1900','125','1985-01-01','','','','Story','Malayalam','1','S1')
+	Duplicate entry '7469' for key 'PRIMARY'
+----------------------------------------------------------
+
+
+
+Sep 20, 2011 12:16:46 AM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in ImportIncome(Income income )  
+	INSERT INTO incometable (receiptno,date,receiveddfrom,categoryid,description,amount) VALUES('1','2011.09.20','sfd fsd','1','Admission fee from sfd fsd','0') 
+	Table 'librarydatabase.incometable' doesn't exist
+----------------------------------------------------------
+
+
+
+Sep 20, 2011 12:16:46 AM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in AddMember(Member member) 
+	INSERT INTO membertable(memberid,memberfname,memberlname,gender,dob,housename,landmark,postoffice,pincode,panchayath,membertype,recomendedmember,admissionfee,phone1,phone2,ispaid,joindate,bloodgroup) VALUES('4444','sfd','fsd','M','1960-01-01','kbkbBKBB','hbkhbkb','bk','688','Alappuzha','0','lknn','0','kbk','b','1','2011.09.20','')
+	Incorrect integer value: 'lknn' for column 'recomendedmember' at row 1
+----------------------------------------------------------
+
+
+
+Sep 20, 2011 12:16:57 AM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in ImportIncome(Income income )  
+	INSERT INTO incometable (receiptno,date,receiveddfrom,categoryid,description,amount) VALUES('1','2011.09.20','sfd fsd','1','Admission fee from sfd fsd','0') 
+	Table 'librarydatabase.incometable' doesn't exist
+----------------------------------------------------------
+
+
+
+Sep 20, 2011 12:16:57 AM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in ImportIncome(Income income )  
+	INSERT INTO incometable (receiptno,date,receiveddfrom,categoryid,description,amount) VALUES('1','2011.09.20','sfd fsd','1','Admission fee from sfd fsd','0') 
+	Table 'librarydatabase.incometable' doesn't exist
+----------------------------------------------------------
+
+
+
+Sep 20, 2011 10:09:15 AM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in ImportIncome(Income income )  
+	INSERT INTO incometable (receiptno,date,receiveddfrom,categoryid,description,amount) VALUES('1','2011.09.20','44444 4','1','Admission fee from 44444 4','0') 
+	Table 'librarydatabase.incometable' doesn't exist
+----------------------------------------------------------
+
+
+
+Sep 20, 2011 3:49:29 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in AddBook(Book book) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('7548','attupokunna Kannilkal','Shasthra Sahithya Parishath','','1900','40','1985-01-01','','','','Story','Malayalam','1','S1')
+	Duplicate entry '7548' for key 'PRIMARY'
+----------------------------------------------------------
+
+
+
+Feb 12, 2012 10:21:38 PM org.our.lm.log.LogFile writeLog
+SEVERE: 	 in ImportAsset(Asset asset) 
+	INSERT INTO booktable(bookregno,bookname,authorname,publishername,publishyear,price,purchasedate,isbn,booksource,bookedtion,catogory,language,isreturned,shelfno) VALUES('23','sdf','wfs','sdf','1900','3','1985-01-01','sdsfs','sdfsdf','3','null','Malayalam','1','S1')
+	Unknown column 'bookedtion' in 'field list'
+----------------------------------------------------------
+
+
+
