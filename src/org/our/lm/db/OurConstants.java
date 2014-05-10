@@ -10,5 +10,6 @@ package org.our.lm.db;
  */
 public class OurConstants {
     public static String DB_NAME = "our_db";
+    public static String HOST    = "";
     
 }
