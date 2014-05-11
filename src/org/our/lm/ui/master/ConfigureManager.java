@@ -235,7 +235,8 @@ public class ConfigureManager extends javax.swing.JPanel {
             //creating database
            llbl_configmsg.setText("Please Wait . . .");
            pbar_configure.setValue(0);
-                qm.createDatabase();
+           //database already created during application init
+                //qm.createDatabase();
                 System.out.println("Create data base");
            pbar_configure.setValue(5);
                 qm.createAssetTable();

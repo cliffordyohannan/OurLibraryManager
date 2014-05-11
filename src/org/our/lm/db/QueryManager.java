@@ -1241,7 +1241,7 @@ public class QueryManager
         */
     //creating Database and tables
         //method for creating database "librarydatabase" and tables
-        public void createDatabase(){
+       /* public void createDatabase(){
                Connection con =null;
                String db="CREATE DATABASE librarydatabase";
                try{
@@ -1259,7 +1259,7 @@ public class QueryManager
                }
            
             
-        }
+        }*/
        //create asset table
         public void createAssetTable() {
             Connection con =null;
